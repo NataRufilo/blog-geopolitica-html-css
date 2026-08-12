@@ -10,11 +10,11 @@
 - Navegação entre páginas
 - Formulário de contato
 
-Início rápido
+## Início rápido
 
 - Abra `index.html` no seu navegador. O site usa apenas HTML e CSS.
 
-Observações
+## Observações
 
 - O site tem cinco páginas HTML estáticas: `index.html`, `europa.html`, `artico.html`, `indopacifico.html` e `contact.html`.
 - Todas as páginas incluem `head`, `body`, `header`, `main`, `footer` e `nav`.
