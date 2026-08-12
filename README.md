@@ -1,4 +1,4 @@
-﻿Horizonte Geopolítico — blog em HTML e CSS.
+﻿## Horizonte Geopolítico — blog em HTML e CSS.
 
  ## Tecnologias
 - HTML5
